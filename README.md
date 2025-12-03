@@ -50,4 +50,3 @@ He/Him
 
 I love mixing **AI + Web Development** to create real-world products, and I enjoy solving practical problems with data-driven solutions!
 
-Just tell me your style!
