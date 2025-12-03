@@ -8,8 +8,7 @@
 * Face Recognition–based E-Voting System (Flask + OpenCV + MongoDB)
 * ML-based Crop Recommendation System
 * A custom Search Engine using Flask + APIs
-* 
-
+  
 ### 🌱 **I’m currently learning**
 
 * Advanced Machine Learning & Deep Learning
@@ -50,21 +49,5 @@ He/Him
 ### ⚡ **Fun fact**
 
 I love mixing **AI + Web Development** to create real-world products, and I enjoy solving practical problems with data-driven solutions!
-
----
-
-## 📊 **GitHub Stats**
-
-```md
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-```
-
----
-
-If you want, I can also make:
-✨ A **more aesthetic version** (with badges, emojis, banners)
-🎨 A **minimal clean version**
-🔥 A **developer-focused version** (short + professional for recruiters)
 
 Just tell me your style!
